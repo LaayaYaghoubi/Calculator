@@ -1,0 +1,11 @@
+C:\Users\layay\RiderProjects\Calculator\Calculator.Model\bin\Debug\net6.0\Calculator.Model.deps.json
+C:\Users\layay\RiderProjects\Calculator\Calculator.Model\bin\Debug\net6.0\Calculator.Model.dll
+C:\Users\layay\RiderProjects\Calculator\Calculator.Model\bin\Debug\net6.0\Calculator.Model.pdb
+C:\Users\layay\RiderProjects\Calculator\Calculator.Model\obj\Debug\net6.0\Calculator.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\layay\RiderProjects\Calculator\Calculator.Model\obj\Debug\net6.0\Calculator.Model.AssemblyInfoInputs.cache
+C:\Users\layay\RiderProjects\Calculator\Calculator.Model\obj\Debug\net6.0\Calculator.Model.AssemblyInfo.cs
+C:\Users\layay\RiderProjects\Calculator\Calculator.Model\obj\Debug\net6.0\Calculator.Model.csproj.CoreCompileInputs.cache
+C:\Users\layay\RiderProjects\Calculator\Calculator.Model\obj\Debug\net6.0\Calculator.Model.dll
+C:\Users\layay\RiderProjects\Calculator\Calculator.Model\obj\Debug\net6.0\refint\Calculator.Model.dll
+C:\Users\layay\RiderProjects\Calculator\Calculator.Model\obj\Debug\net6.0\Calculator.Model.pdb
+C:\Users\layay\RiderProjects\Calculator\Calculator.Model\obj\Debug\net6.0\ref\Calculator.Model.dll

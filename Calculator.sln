@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Model", "Calculator.Model\Calculator.Model.csproj", "{385D93A1-4001-4E65-92C8-3D4F98DCB77F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Unit.Tests", "Calculator.Unit.Tests\Calculator.Unit.Tests.csproj", "{BEACBF61-909F-4835-961F-96FDC8302F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385D93A1-4001-4E65-92C8-3D4F98DCB77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385D93A1-4001-4E65-92C8-3D4F98DCB77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385D93A1-4001-4E65-92C8-3D4F98DCB77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385D93A1-4001-4E65-92C8-3D4F98DCB77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEACBF61-909F-4835-961F-96FDC8302F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEACBF61-909F-4835-961F-96FDC8302F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEACBF61-909F-4835-961F-96FDC8302F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEACBF61-909F-4835-961F-96FDC8302F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
